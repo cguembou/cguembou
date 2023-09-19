@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cguembou
+- 👀 I’m interested in Monte Carlo Modeling in Nuclear Physics
+- 🌱 I’m currently learning Geant4, MCNP, FLUKA, PHITS and C++ Programming skills
+- 💞️ I’m looking to collaborate on Monte Carlo code development
+- 📫 How to reach me (sebastianguembou@gmail.com)
